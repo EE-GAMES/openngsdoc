@@ -1,8 +1,10 @@
 # Table of contents
 
+* [Welcome](README.md)
+
 ## BASICS
 
-* [Get Started](README.md)
+* [Get Started](<README (1).md>)
 * [What is OpenNGS](basics/what-is-openngs.md)
 * [Quick Start](basics/quick-start.md)
 
