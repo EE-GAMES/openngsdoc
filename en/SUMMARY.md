@@ -9,4 +9,23 @@
 ## SYSTEMS
 
 * [Overview](systems/readme.md)
-* [What is OpenNGS](systems/what-is-openngs.md)
+
+## CONTENT
+
+* [Overview](content/readme.md)
+
+## USER & PLAYER
+
+* [Overview](user-and-player/readme.md)
+
+## ADMIN
+
+* [Overview](admin/readme.md)
+
+## REFERENCE
+
+* [Overview](reference/readme.md)
+
+## SUPPORT
+
+* [Get Help](support/get-help.md)
