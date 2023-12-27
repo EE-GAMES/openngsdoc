@@ -1,10 +1,8 @@
 # Table of contents
 
-* [欢迎](README.md)
+## BASICS
 
-## 基础概念(basics)
-
-* [新手入门](<README (1).md>)
+* [新手入门](README.md)
 * [What is OpenNGS](basics/what-is-openngs.md)
 * [Quick Start](basics/quick-start.md)
 
